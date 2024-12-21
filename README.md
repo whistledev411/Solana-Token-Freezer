@@ -18,7 +18,7 @@ npm start
 ```
 
 ## Author
-Telegram: [@beastdev0002](https://t.me/beastdev0002)
+Telegram: [@whistle](https://t.me/devbeast5775)
 
 
 Please feel fee to contact me if you have any question for this project or others.
